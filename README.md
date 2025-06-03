@@ -8,6 +8,14 @@ This is the **frontend React application** for the **Mini CRM Platform** built f
 
 ---
 
+
+## 🔗 Related Repositories
+
+- 📦 **Backend Repo:** [Mini CRM Backend (Node)](https://github.com/atharva5924/xeno-backend)
+
+---
+
+
 ## ✨ Features
 
 - 🔐 **Google OAuth2.0 Authentication** (via `@react-oauth/google`)
@@ -51,6 +59,7 @@ On campaign creation, users can generate multiple variants of personalized messa
 > AI Tool Used: [OpenAI GPT API](https://platform.openai.com/)
 
 ---
+
 
 ## 🏗️ Frontend Architecture Overview
 
